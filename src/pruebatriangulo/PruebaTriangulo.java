@@ -8,7 +8,18 @@ package pruebatriangulo;
  *
  * @author Alberto
  */
+
+
+/**
+ * La clase `PruebaTriangulo` contiene el método `main` donde se realizan pruebas con la clase `Triangulo`.
+ */
 public class PruebaTriangulo {
+    
+    /**
+     * Punto de entrada principal para ejecutar las pruebas con la clase `Triangulo`.
+     *
+     * @param args argumentos de línea de comandos (no utilizados en este caso)
+     */
     public static void main(String[] args) {
         // Crear objetos Triangulo
         Triangulo triangulo1 = new Triangulo(1, 3, 5);
